@@ -388,7 +388,7 @@ See the [`examples/`](./examples) directory for complete, runnable examples:
 ## Contributing
 
 ```bash
-git clone https://github.com/lystica/lystica-cloud-sdk.git
+git clone https://github.com/Lupleg/lystica-cloud-sdk.git
 cd lystica-cloud-sdk
 npm install
 npm run build
